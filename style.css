@@ -1,0 +1,13 @@
+img{
+    width: 60px;
+    object-fit: cover;
+    height: 60px;
+}
+input{
+    width: 100% ;
+    display: block;
+    margin: 10px 0;
+}
+label{
+    margin: 20px 0 4px 0;
+}
